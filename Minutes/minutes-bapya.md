@@ -1,3 +1,17 @@
+# Minutes for Board Meeting 2023-04-17
+
+Taken by Moshe Zadka
+
+## Attendees
+
+* Phebe Polk
+* Mahmoud Hashemi
+* Moshe Zadka
+* Karen Dalton
+* James Abel
+
+## Minutes
+
 * Phebe: Anything else to add to the agenda?
   * None
 * Phebe: Do we vote on the agenda?
@@ -143,7 +157,7 @@
   * Phebe: Yes
   * James: I think the conference is a bit more urgent.
   * James: As far as budget goes, we're looking for a loan from the PSF?
-  * Phebe: Yes. Chris Brussa said he'd be willing to loan the money,
+  * Phebe: Yes. Chris Brousseau said he'd be willing to loan the money,
     and we could pay him back when we get a grant?
   * Karen: The $6K is the food truck downpayment. We don't have data re:
     Mission Bay. Would Mission Bay be preferred?

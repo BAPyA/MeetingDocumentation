@@ -1,0 +1,169 @@
+# BAPyA Board Meeting Minutes 2025-06-09
+
+## Attendance
+
+* Record present: Phebe, Chris, Karen, James, Moshe
+* Record absences: N/A
+* Vote to approve 2025-05-05 minutes
+  * James motions
+  * Karen seconds
+  * Aye: Phebe, Chris, Karen, James, Moshe
+  * Motion passes, minutes approved
+* Ask for any additions to the agenda
+  * Venue options
+  * Code of conduct
+* Vote to approve agenda:
+  * Chris motions
+  * James seconds
+  * Aye: Phebe, Chris, Karen, James, Moshe
+  * Motion passes
+
+## Code of conduct
+
+* Chris: This year we had some CoC unpleasantness. We have some gaps in our CoC. I want an initiative
+  to look at it more systematically. There's a lot of inconsistencies in the meetups. It's not
+  really clear which CoC covers what (meetup/pybay/bapya crossover). Could we tighten things up a bit
+  and make it easier to be transparent with our members? We have gotten complaints about the process
+  and its lack of transparency. It  doesn't all have to be the same, but it has to be consistent.
+* James: Maybe a single BaPyA CoC.
+* Karen: Findability, ease of understanding. Both for the community and enforcers, clear responsibilities
+  and harmonization.
+* Chris: Yes, not enough was covered. People weren't clear on the escalations. I put a few thoughts
+  together but maybe more people can look at it. Pyninsula organizers would have to look at it. People
+  asked what is the process. PyBay organizers got a CoC complaint lodged against them.
+* Moshe: We are accountable to the PSF
+* Phebe: That's the defacto process, and it's document in the CoC.
+* Chris: Individually these aren't real problems, but together they are painful.
+* Phebe: What are the means of enforcement? Currently meetups are enforcing individually.
+  We don't have a formalized process. But we do have a process for PyBay. It's a bit more
+  heavy weight, we don't have anything set up for the meet-ups.
+* Chris: We have the basics right, but there's some work to do on the cleanup, probably a lot of
+  pieces. When I visited a relative in the hospital, there was a big sign explaining conduct
+  behavior. That inspired me. If people think it's a good idea, I can share the documents out.
+* James: I'd like it if all the meet-ups could point at the same document.
+* Chris: Part of the issue is that we want to be clear, at least internally, and possibly externally,
+  about consequences.
+* Moshe: Maybe we can say what the normal consequences are, but be clear that we reserve the rights
+  to make case-appropriate decisions.
+* Karen: We can talk about how being banned from one meet-up might cause you to be banned from others.
+* Moshe: We should be clear that consequences are not local: they might be enforced by any other
+  parts of the community. Other local meetups, conferences, and possibly PyCon or other conferences.
+* Chris: I can share my current thoughts. I'd love to be able to go into PyBay with a solid CoC
+  story.
+* Phebe: Sometimes we host celebrities, and we need to be able to enforce unpleasant stalking.
+* Chris: We need to understand both the rules and the right way to communicate it.
+* Karen: We can reach out to people we host and ask about what they would be comfortable with.
+* Phebe: How would implement it?
+* Karen: We can announce what the expectations are (no pictures, special picture time).
+* Moshe: I agree. We can ask, and then publicly announce what are the expectation so that people
+  don't have to feel unplasant refusing.
+* Chris: Maybe we should have a special meeting. I'll publish stuff to the board and the meet-up
+  organizers.
+* James: Would be great to have it in time for PyBayy
+* Chris: I hope so, but we'll have to see.
+
+## Venue options
+
+* Phebe: Last year we had a lot of discussions, but our sponsorship money is so-so.
+* Chris: This is a 65k event, we need about 35k in sponsorships to make it work.
+* Phebe: Our current contract is the same as last year. If we only get half of Robertson,
+  half of Fisher, and a green room, we can still have the number of people we want.
+* Chris: I agree, saving 3K is a good idea.
+* Phebe: Half a room went empty, we could have saved money.
+* Phebe: Half Robertson, the Atrium, the Terrace, Half Fisher -- until we sell more tickets.
+* Phebe: Last year we had a lot of volunteers. With the same number of ticket sales, we'd
+  have less attendees. PyCon went to 60%.
+* Chris: We might be in the red.
+* Moshe: Then I'd prefer to be 3k less in the red.
+* Chris: A lot of the problem was border. The US border is less pleasant now, and has even
+  worse reputation.
+* Phebe: I need to make a new option.
+* Phebe: We sold 6 tickets, which is ahead of where we were.
+* Chris: I'll talk to Mission bay about option 6.
+* James: I'd increase it before we get to 400
+* Chris: Can we put it in the agenda until next month?
+* Phebe: Historically we didn't sign the contract until July.
+  We have a date for next year, October 3.
+* Chris: We can announce at PyBay.
+* Phebe: To remind everyone, we can save $3k like that. If we're
+  on track to sell more tickets, especially if we advertise speakers,
+  we can maybe sell more tickets.
+* Chris: In theory, someone else could rent the rest of the room, but
+  it's unlikely.
+* Phebe: I'd really like a green room.
+* James: I'd like to avoid packing people too tight.
+
+### Documentation: Option 6 - Max 200
+
+| Room | Occupancy | Cost |
+|------|-----------|------|
+| Main Conference Track | Robertson 2/3 | 95 | 9700 |
+|  | Fisher East | 130 | 8000 |
+| Second Conference Track | Fisher West | 200 | ^ |
+| Eating Area | BOA Terrace | Outside | 2700 |
+| Mission Control Area | Conference Room | 40 | 2700 |
+| **Total** |  |  | **23400** |
+
+## Get togethers
+
+### State of the meetups
+
+#### SFPython
+
+* James: We're scheduled. We've got good talks, AI and Python 3.12/3.13,
+  Gel is sponsoring, Yuri will give a presentation. Great venue.
+  Amazing location by Ghiradelli square.
+* Phebe: It's on Wednesday. We'll send out an update.
+* James: Registrations are down.
+* Phebe: Meetup stopped sending e-mails, and the communication via meetup is awkward and buggy.
+  We should also collaborate with recruiters.
+* James: I'll try to organize the volunteers more. I'll also send comms via meetup
+* Phebe: I'll do squarespace
+
+#### BayPiggies
+
+* Karen: Meetup coming up at SAP labs. Unified meetup signups gave us some leads.
+  It's still a struggle to get people to speak.
+* James: Re: signups, maybe we can add a date of when a talk was given.
+* Karen: We can try adding a column and see what happens.
+  You're right, it's difficult to coordinate.
+
+#### Pyninsula
+
+* Moshe: I'll check in with Mahdmou
+
+#### PyLadiesSF
+
+* Phebe: It's back! They have their own pot of money from PyLadies.
+  But it's going to take time to get access to it, BaPyA is going
+  to extend them credit and then they'll move money to cover that.
+  PyLadies event is coming up June 26.
+  We have a workshop July 27
+  July 24 online workshop
+  * They are not formally part of BaPyA but we're closely allied.
+
+### State of PyBay
+
+* Chris: We plateaued on start-ups, but we have some promising leads.
+  We're following up with some previous sponsors, and have had some success.
+  We reached a limit with our e-mail campaign, we need net-new leads.
+  Ticket sales are open, we still have early birds. We need to sell tickets
+  before catering is locked down. We're hoping for celebrity draw.
+  We need help structuring the social media. Not a lot of followers.
+  We should connect with people on linkedin and other social platforms.
+  114 talks plus place holders for sponsored talks.
+  We need to be done in 2 weeks for evaluations,
+  so hopefully soon we can reach out to accepted speakers.
+* Karen: People loved the discount codes
+* Chris: We can. We'll give discount codes to organizers, and others as appropriate.
+
+## Adjournment
+
+* Next meeting time: 2025-07-14
+  * Moshe sends out reminder four days before
+* Adjourn:
+  * James motions
+  * Karen seconds
+  * Aye: Phebe, Chris, Karen, James, Moshe
+  * Motion passes, meeting adjourned.
+ 

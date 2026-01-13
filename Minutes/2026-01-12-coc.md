@@ -1,0 +1,468 @@
+# BAPyA Code of Conduct
+
+## Key Policy Points (TL;DR)
+
+**Our intent:** BAPyA provides a safe, inclusive, professional community for everyone.
+
+**Where this applies:** All BAPyA events and spaces (in-person & online), and conduct that affects participation in those spaces.
+
+**Expected conduct:** Be respectful, inclusive, and considerate; assume good intent; accept feedback; follow venue rules.
+
+**Prohibited behavior (highlights):** Harassment (verbal/sexual), intimidation/stalking, doxxing/privacy violations, unwanted physical contact, threats or acts of violence (no weapons), disruption of talks, discriminatory jokes or exclusionary language, retaliation, process abuse.
+
+**Special contexts:**
+- **Youth/family:** BAPyA events are PG-13; minors must be accompanied by a parent or legal guardian at all times during events; guardians supervise minors.
+- **Sponsors/exhibitors:** Professional interactions; no sexualized content; no aggressive recruiting.
+
+**Unified reporting:** Use conduct@bapya.org (anonymous reports allowed; see details below).
+
+**Safety during reporting:** You may report privately; bring a support person; you'll never be asked to confront the reported party.
+
+**Response times:** We aim to acknowledge within 24 hours and provide a status/update within 7 days.
+
+**If a BAPyA leader is involved as a reported party:** Report directly to the PSF Code of Conduct Working Group at conduct@python.org for independent review.
+
+**Possible outcomes:** Correction, warning, temporary/permanent exclusion from events and spaces, and other actions deemed appropriate by BAPyA.
+
+*This summary is not the full policy. See the sections below for details.*
+
+---
+
+**Report a Concern now:** conduct@bapya.org
+
+*(Anonymous? You may use a throwaway email with "ANONYMOUS CODE OF CONDUCT REPORT" in the subject line. See "Reporting & Intake" for what to include.)*
+
+**Questions about this policy?** Contact the BAPyA Board at board@bapya.org
+
+*Last updated: [DATE TBD]*
+
+---
+
+## 1) Purpose & Scope
+
+### Purpose & Ethos
+
+BAPyA is committed to a welcoming, inclusive, and harassment-free environment for all participants, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or other personal characteristics.
+
+### Scope
+
+This policy applies to BAPyA-affiliated:
+
+- **Events** (e.g., PyBay) and **meetups** (e.g., SF Python, Pyninsula, BayPiggies), whether in-person or virtual.
+- **Online spaces** (e.g., mailing lists, Slack/Discord, social media) operated by or officially associated with BAPyA.
+- **Community interactions** outside official venues when those interactions adversely affect a person's participation or create a hostile environment in BAPyA spaces.
+
+### Single Unified Policy
+
+All BAPyA-sponsored and BAPyA-affiliated events adopt this single Code of Conduct, including its processes for reporting, investigation and application of consequences.
+
+### Single Unified Code of Conduct Management Process
+
+When BAPyA accepts a report, BAPyA's CoC process is the lead forum for that incident across BAPyA-affiliated spaces. We coordinate with relevant organizers (and with PSF CoC WG in conflict-of-interest cases) to avoid duplicate or conflicting processes.
+
+---
+
+## 2) Standards & Prohibited Conduct
+
+### A Note on Good-Faith Reporting
+
+We encourage all participants to report behavior they believe, in good faith, violates this Code of Conduct. Filing a report in good faith will never result in negative consequences for the reporter, even if an investigation ultimately does not determine that violation(s) occurred.
+
+We also recognize and respect the oversight role of the Python Software Foundation (PSF). Raising good-faith concerns about this Code of Conduct or its enforcement to BAPyA leadership or the PSF is a legitimate process and is not considered retaliation.
+
+### Positive Standards (What We Expect)
+
+- Be respectful, inclusive, and considerate.
+- Use welcoming, accessible, and professional language.
+- Share and accept constructive feedback; focus on what's best for the community.
+- Follow venue rules and staff directions.
+
+### Prohibited Behaviors (What's Not Allowed)
+
+#### A) Harassment & Discrimination
+
+- **Harassment (verbal or written):** insults, slurs, derogatory remarks, threats, or persistent unwanted comments.
+- **Discrimination / hateful conduct** targeting protected or personal characteristics.
+- **Trolling and personal attacks,** including targeted political attacks on individuals.
+- **Continued contact after "stop":** any one-to-one communication after a clear request to cease.
+- **Inappropriate social contact:** requesting or assuming unwarranted familiarity or intimacy.
+- **Sexual harassment:** unwelcome sexual attention/advances; sexualized comments or behavior.
+
+#### B) Safety, Violence & Weapons
+
+- **Threats or acts of violence.**
+- **Incitement of harm:** encouraging violence, harassment, or self-harm/suicide.
+- **Weapons:** possessing, brandishing, or using weapons or weapon-like props in BAPyA spaces (venue-specific exceptions require prior written approval and legal compliance).
+
+#### C) Physical & Sexual Safety
+
+- **Unwelcome physical contact** (or simulated contact) without consent.
+- **Sexualized content in community spaces:** sexual language or imagery in talks, booths, chats, or online forums.
+- **Explicit/graphic material:** posting sexually explicit or graphically violent content in community spaces.
+
+#### D) Stalking, Surveillance & Privacy
+
+- **Stalking, following,** repeated unwanted contact, or intimidation.
+- **Doxxing / privacy violations:** publishing or threatening to publish private or personal information without explicit consent.
+- **Non-consensual photography/recording** of people who have declined or where a reasonable expectation of privacy exists.
+- **Harassment via capture:** logging, screenshotting, or selectively quoting private communications to harass or intimidate.
+
+#### E) Community Disruption & Integrity
+
+Behaviors that undermine the health of the community or the integrity of its processes are considered violations. These include:
+
+- **Sustained disruption** of talks, sessions, or online discussions.
+- **Unprofessional conduct** inappropriate for a professional audience (e.g., discriminatory jokes, exclusionary language, excessive profanity).
+- **Encouraging or facilitating** policy violations by others.
+- **Retaliation or Obstruction:** We explicitly forbid retaliation against or obstruction of any participant in a CoC process. Such actions are distinct and severe violations. Examples include, but are not limited to:
+  - Threatening, harassing, or intimidating anyone who files a report, is a witness, or is a member of the Code of Conduct Working Group.
+  - Knowingly filing a false or misleading report to silence, harm, or punish another participant.
+  - Filing complaints in other venues (with employers, other organizations, etc.) with the intent or effect of intimidating or punishing anyone involved in a BAPyA CoC process.
+  - Making public accusations or publicizing selective information designed to undermine an ongoing investigation or influence its outcome.
+  - **Ban evasion / sock-puppeting** — e.g., using alternate identities or accounts to continue prohibited behavior.
+
+**Note 1:** This policy does not prevent: (a) raising legitimate concerns about CoC processes through appropriate channels, (b) seeking personal support from employers or communities, or (c) filing required legal or regulatory reports.
+
+**Note 2:** For the avoidance of doubt — an intentionally duplicated Note on Good-Faith Reporting:
+
+We encourage all participants to report behavior they believe, in good faith, violates this Code of Conduct. BAPyA will not tolerate retaliation against anyone who files a report, is a witness, or participates in an investigation.
+
+Filing a report in good faith will never result in negative consequences for the reporter, even if an investigation ultimately does not find a violation. We also respect the oversight role of the Python Software Foundation (PSF); raising good-faith concerns to BAPyA leadership or the PSF is not considered retaliation.
+
+---
+
+## Additional BAPyA-Specific Policies
+
+### F) Youth and Family Policy
+
+BAPyA welcomes attendees of all ages at our family-friendly events. For the safety and comfort of all participants:
+
+- Minors (under 13) must be accompanied by a parent or legal guardian at all times during events
+- Both the minor and guardian must be registered participants with appropriate identification
+- All participants shall keep interactions and language appropriate for all ages (PG-13 standard)
+- Guardians are responsible for their minor's behavior and adherence to this Code of Conduct
+
+### G) Commercial Participants and Sponsors
+
+Sponsors, exhibitors, vendors, and other commercial participants are valuable members of our community and are expected to uphold the same standards as all attendees:
+
+- **Required:** Professional, respectful interaction with all community members
+- **Prohibited:** Aggressive recruiting techniques or invasive marketing behavior toward community members
+- **Prohibited:** Sexualized images, activities, or promotional materials in booths or presentations
+- **Prohibited:** Staff wearing sexualized clothing, uniforms, or costumes
+
+Violations may result in removal from the event without refund of sponsorship contributions.
+
+---
+
+## 4) Reporting & Intake
+
+### Anonymity & Safety Options
+
+- You may report anonymously (e.g., from a throwaway email).
+- We can arrange a private, safe setting for in-person reports.
+- You may bring a support person.
+- You will not be asked to confront the reported person.
+- We make commercially reasonable efforts to protect reporter confidentiality unless you request otherwise or where disclosure is legally required.
+
+### What to Include in a Report
+
+- Your contact info including email and phone (optional if anonymous).
+- All available identifying information of the person(s) involved.
+- Whether you believe the person is aware their behavior was inappropriate.
+- Description of the behavior and why it violates this policy.
+- Date, time, and location (or URL or online space) of the incident(s).
+- Names and contact info for any witnesses.
+- Supporting evidence (screenshots, photos, links).
+
+### Primary Reporting Channel (Unified)
+
+**Email:** conduct@bapya.org
+
+We aim to acknowledge within 24 hours and provide a status/update within 7 days.
+
+**Emergency situations:** For immediate safety concerns, contact venue security or local law enforcement, then notify BAPyA staff and follow up with a written report.
+
+**Conflict of Interest (COI):** If the report concerns a BAPyA Board Member, or BAPyA event leadership team member, or a member of the BAPyA CoC Working Group, report directly to the PSF Code of Conduct Working Group at conduct-wg@python.org following PSF procedures: https://www.python.org/psf/conduct/reporting/
+
+**Good-faith vs. abusive filings:** We welcome good-faith reports and appeals. Duplicate or retaliatory complaints filed to harass reporters or re-litigate outcomes in other venues may be treated as process abuse and can result in additional consequences.
+
+---
+
+## 5) BAPyA CoC Investigation & Decision-Making
+
+### Process Overview
+
+We aim to acknowledge reports within 24 hours and provide a status/update within 7 days. Complex cases may require more time; we will communicate expected next steps as appropriate and at our sole discretion.
+
+### Process Administrators
+
+| Role | Description |
+|------|-------------|
+| **CoC WG** | BAPyA CoC Working Group |
+| **First Responder** | The first person to respond to a CoC event (e.g. in person contact at an event) who has a formal leadership role in BAPyA or BAPyA sponsored events (e.g. CoC WG, Meetup / Event leader, BAPyA Board Member) |
+| **Lead Investigator (LI)** | Assigned CoC WG member managing a specific case |
+| **CoC WG Chair** | Assigns cases, handles escalations, manages appeals |
+| **PSF CoC WG** | Independent body for conflict-of-interest cases, as BAPyA is a fiscal sponsoree of the PSF |
+
+### Process Participants
+
+| Role | Description |
+|------|-------------|
+| **Reporting Party/Reporter** | Person submitting the report (may be anonymous) |
+| **Reported Party** | Person(s) alleged to have violated the CoC |
+| **Witness(es)** | Person(s) with relevant information about the incident |
+
+### Investigation Steps
+
+#### Step 0 — Safety First (immediately, if applicable)
+
+- ☐ Assess immediate safety; contact venue security or law enforcement if needed. *[First Responder/Any CoC WG Member]*
+- ☐ Consider interim measures (e.g., no-contact directive, temporary removal from a session) to prevent further harm while the review proceeds. *[First Responder/Any CoC WG Member]*
+
+#### Step 1 — Intake & Triage (Day 0–1)
+
+- ☐ Log the report *[CoC WG]*
+- ☐ Conflict of Interest check: Check if any Working Group member has a conflict then recuse that person; if leadership/CoC WG member is implicated, escalate to PSF CoC WG (independent review). *[CoC WG]*
+- ☐ Good-faith screen (prima facie): Shall discard obviously malicious/spam filings; CoC WG shall note process-abuse / forum-shopping indicators (see below). If the report is not made in good faith at the sole determination of the CoC WG Lead Investigator, the CoC WG may respond to the reporting party at their sole discretion. *[CoC WG]*
+- ☐ Assign Lead Investigator. Assign a member of the CoC WG as Lead Investigator for each specific case. *[CoC WG]*
+- ☐ Acknowledge receipt. Make reasonable efforts to respond to the reporter within 24 hours and share next steps and timeline. *[Lead Investigator / LI]*
+
+#### Step 2 — Completeness & Clarification (Day 0–3)
+
+- ☐ Confirm report completeness (who, what, when, where, how it violates CoC). *[LI]*
+- ☐ Follow up with reporter for missing facts or evidence. *[LI]*
+- ☐ Confirm ability to proceed. If anonymous report lacks essentials and cannot be clarified, document limits; proceed only if sufficient to evaluate. *[LI]*
+
+#### Step 3 — Identify Reported Party & Contactability (Day 1–3)
+
+- ☐ Confirm the identity of the reported party and confirm available contact details (email, event registration, platform handle). *[LI]*
+- ☐ If the reported party cannot be identified with reasonable effort, document attempts and proceed with any environmental remedies (e.g., room management, moderator guidance). *[LI]*
+
+#### Step 4 — Notify Reported Party (Day 2–4)
+
+- ☐ Notify the reported party that a report was received and provide a concise summary of the alleged conduct and the relevant policy sections. *[LI]*
+- ☐ Protect confidentiality: do not share the original report; withhold reporter and witness identities and any sensitive details as needed to ensure safety and privacy. *[LI]*
+- ☐ Request a written statement from the reported party to gather their account and any evidence they may have available. *[LI]*
+
+**Deadlines:**
+- 5 calendar days to acknowledge receipt
+- 7 calendar days to submit a statement
+- Extensions may be granted for good cause (e.g., illness), at the WG's sole discretion.
+
+#### Step 5 — Evidence Gathering (Day 2–10)
+
+- ☐ Collect relevant documents, screenshots, logs, and witness statements. *[LI]*
+- ☐ Preserve data with minimal retention needed for the case; avoid over-collection. *[LI]*
+- ☐ Screen for parallel filings (other meetups, platforms) and coordinate to avoid duplicate or conflicting processes. BAPyA remains the lead forum for incidents in BAPyA spaces. *[LI]*
+
+#### Step 6 — Non-Response / Incomplete Responses
+
+- ☐ If the reported party misses deadlines or provides incomplete responses, send one reminder with a 48-hour grace period. *[LI]*
+- ☐ If still incomplete/no response, proceed based on available information and note the non-response when weighing credibility and outcomes. *[LI]*
+
+#### Step 7 — Analysis & Deliberation
+
+- ☐ The non-conflicted subset of the CoC WG reviews facts against policy; apply proportionality and pattern considerations (prior warnings, repeat conduct). *[CoC WG]*
+- ☐ Consider intent vs. impact, risk of ongoing harm, mitigations taken. *[CoC WG]*
+- ☐ Draft findings of fact and a proposed outcome (see Enforcement Ladder). *[CoC WG]*
+
+#### Step 8 — Decision & Documentation
+
+- ☐ Record the decision, the policy basis, and the rationale. *[CoC WG]*
+- ☐ Specify sanctions (if any), duration, and conditions (e.g., no-contact, apology, training). *[CoC WG]*
+- ☐ Note any process-abuse/forum-shopping findings and additional consequences if applicable. *[CoC WG]*
+
+#### Step 9 — Communications
+
+- ☐ Inform the reporter of the outcome to the extent appropriate and lawful. *[LI]*
+- ☐ Inform the reported party of the decision, sanctions (if any), and appeal window (14 days; specify grounds). *[LI]*
+- ☐ If needed, inform affected organizers or venue security of actions they must enforce (limited to what's necessary). *[LI]*
+
+#### Step 10 — Appeals
+
+- ☐ Accept appeals only on recognized grounds: new evidence, procedural error, or disproportionate outcome. *[CoC WG]*
+- ☐ Assign appeal reviewers who were not involved in the original decision (or PSF CoC WG for independence). *[CoC WG]*
+- ☐ Communicate the appeal outcome and close the case. *[CoC WG]*
+
+#### Step 11 — Closure, Records & Transparency
+
+- ☐ Store minimal necessary records (decision, rationale, sanctions, timelines) with restricted access. *[LI]*
+- ☐ Notify affected BAPyA Groups as appropriate (e.g., ban list with duration). *[LI]*
+- ☐ Update sanctions tracking (e.g., ban list with duration). *[LI]*
+
+### Anticipated Timelines
+
+| Action | Timeline |
+|--------|----------|
+| Report acknowledgement | ≤ 24 hours |
+| Status/update | ≤ 7 days |
+| Reported Party acknowledgement | 5 calendar days from notice |
+| Reported Party statement due | 7 calendar days from notice (extensions for good cause) |
+| Appeal window | 14 days from decision |
+
+### Conflicts of Interest (COI) & Recusal
+
+- Any investigator with a conflict shall be recused from participation by the CoC WG.
+- If leadership or a BAPyA CoC WG member is the reported party, the case is escalated to the PSF CoC Working Group for independent review.
+
+### Parallel Filings & Process Abuse
+
+- If related complaints are filed in multiple venues, BAPyA will coordinate to avoid duplicate adjudication, treating the BAPyA process as the lead forum for BAPyA spaces.
+- Good-faith filings raise new facts/incidents or allege procedural error; abusive filings are duplicative, retaliatory, or aimed at delay/harassment. The latter may incur additional consequences.
+
+### Records & Privacy
+
+- BAPyA retains minimal, necessary records to document actions and support transparency reporting.
+- Access is limited to the BAPyA CoC Working Group or PSF WG as appropriate.
+
+---
+
+## 6) Outcomes & Accountability
+
+### Enforcement Ladder (Discretionary, Non-Sequential)
+
+**Discretion & safety first.** The CoC Working Group (WG) may impose any action at any time, without following a sequence, based on the facts, safety needs, and community impact. The items below are illustrative levels and do not create rights or expectations. Conditions may accompany any action. Consequences apply across all BAPyA-affiliated spaces.
+
+### Potential Enforcement Actions
+
+| Action | Description |
+|--------|-------------|
+| **Advisory / Coaching** | Private conversation to clarify expectations and provide guidance/resources. |
+| **Correction (Documented)** | Written notice documenting the concern and the specific behavior change required. |
+| **Formal Warning** | Written warning that further issues may result in stronger actions; may include conditions (e.g., no-contact, moderated participation). |
+| **Conditional Participation** | Continued participation only under stated conditions (e.g., no-contact directives, restricted areas/activities, monitored Q&A). |
+| **Removal from Session / Area** | Immediate removal from a talk, room, channel, or activity; may be paired with other actions. |
+| **Time-Limited Ban** | Exclusion from BAPyA spaces for a defined period; return may require meeting conditions (training, assurances, etc.). |
+| **Indefinite / Multi-Year Ban** | Exclusion without a fixed end date; eligibility for petition/review after a minimum period set by the CoC WG. |
+| **Permanent Exclusion** | Permanent ban from all BAPyA spaces. |
+
+### Potential Additional Actions
+
+- **Logistical:** event badge revocation, escorted exit, seat reassignment.
+- **Restorative:** facilitated apology or other repair steps.
+- **External:** coordinate with venue security, or contact law enforcement where required by law or immediate risk; notify PSF, notify employer/host organization.
+
+### Considerations
+
+The CoC WG may consider factors such as: impact and severity; ongoing risk; prior history; cooperation; actual or attempted retaliation or process abuse; power dynamics; and feasibility of conditions that protect participant safety.
+
+*(non-exhaustive, not binding)*
+
+### Cross-Space Enforcement
+
+Consequences may apply across all BAPyA-affiliated spaces and activities and are not limited geographically to the Bay Area. Events may also be reported to the PSF for additional action. These groups currently include but are not limited to the BAPyA managed meetups: SF Python, Peninsula and BayPiggies, as well as the PyBay Conference.
+
+### Appeals
+
+- A reported party may request an appeal within 14 days of the decision by writing to conduct@bapya.org.
+- Appeals are reviewed by CoC WG members not involved in the original decision (or escalated to PSF CoC WG if needed for independence).
+- Grounds include new evidence, procedural error, or disproportionate outcome.
+
+### Transparency Reporting
+
+BAPyA will publish an annual, anonymized summary of incident types and outcomes (no personally identifying details).
+
+---
+
+## 7) Definitions
+
+| Term | Definition |
+|------|------------|
+| **Ban evasion / sock-puppeting** | Using alternate identities or accounts to continue prohibited behavior. |
+| **BAPyA CoC Working Group (CoC WG)** | Trained volunteers designated by BAPyA to receive reports, investigate, and decide outcomes under this policy. |
+| **Conflict of Interest (COI)** | Any situation where a CoC WG member's impartiality could reasonably be questioned (e.g., close personal/professional ties). |
+| **Impacted party** | A person who was directly affected in a matter of concern under this policy. |
+| **Lead forum** | The primary process (here, BAPyA CoC) coordinating investigation/decisions for incidents within BAPyA spaces. |
+| **Process abuse / forum shopping** | Retaliatory or duplicative complaints filed to intimidate, delay, re-litigate, or evade outcomes, including shopping for a friendlier venue to undermine the process. |
+| **Reporter / Reporting party** | The person submitting a report about a potential CoC violation (may be anonymous). |
+| **Reported party** | The person or persons alleged to have engaged in prohibited behavior. |
+| **Witness** | Anyone who observed or possesses relevant information/evidence regarding the incident. |
+
+---
+
+## 8) Frequently Asked Questions (FAQ)
+
+**Q1. "Can I report anonymously?"**
+
+Yes. Anonymous reports are accepted. Provide as much detail as possible so we can act. With truly anonymous reports, there is no confidential information about the Reporter/Reporting Party available to BAPyA.
+
+**Q2. "Will my confidentiality be protected?"**
+
+We take confidentiality seriously and protect it to the greatest extent possible. Information shared in a report that is not submitted anonymously is kept private and disclosed only to those who need to know in order to assess, respond to, or resolve the concern.
+
+However, complete confidentiality cannot always be guaranteed. In some situations—especially when specific events, statements, or interactions must be verified—it may be necessary to share limited details with the person(s) involved in order to ensure a fair and accurate review.
+
+**Right to Withdraw:** If we determine that investigating your report would likely reveal your identity to the reported party—for example, when an incident involved only a few people or specific identifying details—we will inform you before proceeding. At that point, you may choose to:
+- Proceed with the investigation understanding the disclosure risk
+- Withdraw your complaint to protect your privacy
+- Explore alternative approaches that might better protect your identity
+
+You always have the right to withdraw your complaint if maintaining anonymity becomes impossible. However, please know that patterns of behavior often become actionable only when multiple reports exist, and your report—even if withdrawn—helps us identify concerning patterns.
+
+When working with confidential information, we will:
+- Share only what is necessary to understand or verify the facts.
+- Notify the Reporting or Impacted party beforehand if their identity is likely to become known and offer support and safety planning if disclosure could cause discomfort or risk.
+
+Our goal is to handle all reports discreetly, minimize exposure of confidential personal information, and maintain fairness for everyone involved.
+
+**Q3. "Will you tell me what happened?"**
+
+We share outcomes with reporters and reported parties to the extent appropriate and lawful, prioritizing safety and privacy.
+
+**Q4. "How do you handle evidence?"**
+
+Provide dates, names, URLs, screenshots, or other artifacts. We store minimal necessary records and restrict access to investigators (or PSF WG when escalated).
+
+**Q5. "Do I get to cross-examine the person who complained?"**
+
+No. This is a community safety process, not a court proceeding. Direct confrontation is not appropriate and may endanger reporters/witnesses. Investigators will collect statements from all sides.
+
+**Q6. "What about free speech / First Amendment rights?"**
+
+BAPyA and PSF are private organizations. Participation in our events and spaces is voluntary and conditioned on following this CoC. The First Amendment limits government action; it does not entitle participation in private events that enforce conduct rules.
+
+**Q7. "This isn't fair—I can't fight back."**
+
+You may respond to a report and appeal a decision (see Appeals). We do not permit retaliation or forum shopping. Good-faith counter-reports with new facts are accepted; duplicative filings used to harass or delay may incur additional consequences.
+
+**Q8. "What if I filed in the wrong place or multiple places?"**
+
+We will route reports to the Lead forum (BAPyA CoC for BAPyA spaces). We coordinate with other organizers to avoid duplicates.
+
+**Q9. "What is the process to appeal?"**
+
+Write to conduct@bapya.org within 14 days stating the grounds (new evidence, procedural error, disproportionate outcome). Appeals are reviewed by members who were not involved in the original decision, or by PSF CoC WG when independence is needed.
+
+---
+
+## 9) Governance & Licensing
+
+### Ownership & Contacts
+
+- **Policy owner:** BAPyA CoC Working Group — conduct@bapya.org
+- **Policy questions (non-incident):** BAPyA Board — board@bapya.org
+
+### License
+
+This policy is licensed under **Creative Commons Attribution–ShareAlike 3.0 (CC BY-SA 3.0)**.
+
+### Attribution & Acknowledgements
+
+This Code of Conduct is adapted from the Python Software Foundation (PSF) Code of Conduct, and includes concepts inspired by other community CoCs (e.g., PyCon, Write the Docs, Django).
+
+PSF CoC: https://policies.python.org/python.org/code-of-conduct/
+
+Questions about this policy? Contact the BAPyA Board at board@bapya.org
+
+### Indication of Changes (required by CC BY-SA 3.0)
+
+**Changes made by BAPyA:** The text has been reorganized and substantially edited to provide (a) a unified reporting channel for all BAPyA-affiliated events, (b) a public investigation and decision process with service levels, (c) event-specific provisions (youth/family, sponsor conduct), (d) an explicit weapons/violence prohibition, (e) process-abuse/forum-shopping guidance, and (f) explicit cross-venue enforcement.
+
+### Version History
+
+- **v1.0 (2025-09-25):** Initial BAPyA adaptation from PSF CoC; unified reporting; SLA (ack ≤24h; update ≤7d); enforcement ladder; appeals; youth/sponsor provisions; weapons/violence explicit; cross-venue enforcement; forum-shopping/process-abuse.
+
+### Reuse Instructions (for affiliates & partners)
+
+You may copy and adapt this policy under CC BY-SA 3.0. Please: (1) Attribute BAPyA and the PSF CoC; (2) Indicate your changes (a short paragraph like the one above is sufficient); and (3) Share under the same license.

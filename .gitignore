@@ -1,0 +1,9 @@
+# Simple .gitignore to prevent IDE settings, etc. from ending up in the repo
+# Ignore everything by default
+*
+
+# Do not ignore directories (required to find nested markdown files)
+!*/
+
+# Do not ignore markdown files at any level
+!*.md
